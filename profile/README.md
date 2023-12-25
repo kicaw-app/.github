@@ -15,7 +15,6 @@ Kicaw is the ultimate app for bird lovers and enthusiasts. Whether you want to l
 | M267BSY1606 | Teguh Mulya Lesmana             | Machine Learning   |
 | M302BSY0451 | Syaloom Zefanya Tampi           | Machine Learning   |
 | M128BSY0719 | Alman Farroz                    | Machine Learning   |
-| C131BSX4383 | Tutik Sundari Wicaksono         | Cloud Computing    |
 | C013BSX3448 | Isna Prastya Yuniarti           | Cloud Computing    |
 | A156BSY2717 | Wildan Frananda                 | Mobile Development |
 | A287BSY2988 | Satrio Pinandito                | Mobile Development |
